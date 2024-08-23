@@ -25,7 +25,7 @@ bash kafka.sh
 ## KAFKA 
 </p>
 <div align="center">
- <img alt="kafka" height="200px" src="https://miro.medium.com/v2/resize:fit:1400/0*yLAJh2DNn8GDXGxc.png">
+ <img alt="kafka" height="200px" src="https://www.codefactorygroup.com/wp-content/uploads/2021/05/apache-kafka-1110x550.png">
 </div>
 
 * Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
