@@ -6,7 +6,7 @@ Our project is focused on a comprehensive analysis of the predictive precision o
 
 ## how to run 
 * this project run **only in linux** , because the project used a bash shell file 
-* **you need to install pyspark and kafka ** in order you run the project
+* **you need to install pyspark and kafka** in order you run the project
 1. clone the project 
  ```bash
 git clone [url of this repo]
